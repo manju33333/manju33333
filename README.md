@@ -1,52 +1,78 @@
-<h1 align="center">Hi 👋, I'm Morla Manju Bhargavi </h1>
-<h3 align="center">An aspiring Embedded Systems Engineer & Full-Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Morla Manju Bhargavi</h1>
+<h3 align="center">B.Tech Graduate | Embedded Systems Enthusiast | Full Stack Developer</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
----
-
-### 🌟 Quick Intro
-- 🎓 Final-year ECE student at Sree Vidyanikethan Engineering College  
-- 🔧 Building real-time systems with Arduino, Verilog, and sensors  
-- 💻 Passionate about developing smart dashboards using Django & Python   
-- 📚 Strong in documentation, presentation, and hands-on debugging
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
+</p>
 
 ---
 
-### 🛠 Tech Stack
+### 🌟 About Me
 
-- **Languages:** C, Python, HTML, CSS, JavaScript, Verilog  
-- **Frameworks & Tools:** Django, Bootstrap, Git, Arduino IDE, Tinkercad  
-- **Other Tools:** VS Code
+- 🎓 B.Tech Graduate (ECE, 2025) from Sree Vidyanikethan Engineering College – CGPA: 9.2  
+- 👩‍💻 Passionate about **Web Development**, **Embedded Systems**, and **Digital Logic Design**
+- 🧠 Strong hands-on in **Python**, **Django**, **HTML/CSS/JS**, and **Verilog**
+- 🛠️ Experienced with building dashboards, task-based apps, and memory logic systems
+- 📍 Based in India | Open to relocation
+- 🌱 Continuous learner with a project-based approach to growing in tech
 
 ---
 
-### 💼 Featured Projects
+### 💼 Technical Skills
+
+| Category          | Technologies |
+|------------------|--------------|
+| **Languages**     | Python, C, Verilog |
+| **Web Technologies** | Django, HTML, CSS, Bootstrap, JavaScript |
+| **Database**      | MySQL, SQLite |
+| **Tools/Platforms** | Git, VS Code, Tinkercad, Xilinx |
+| **Soft Skills**   | Problem Solving, Teamwork, Adaptability, Communication |
+
+---
+
+### 🚀 Projects I've Built
 
 | Project | Description |
 |--------|-------------|
-| 🔋 [Smart Energy Meter Dashboard](https://github.com/manju33333/energy-dashboard) | Simulates real-time energy usage using Django + Chart.js |
-| 💡 [FSM Design in Verilog](https://github.com/manju33333/fsm-verilog) | Simulated Finite State Machines with Testbenches |
-| 📚 [CodeTech Tasks](https://github.com/manju33333/CodeTech_Task1) | Mini projects using HTML, CSS & Python |
-| 📝 [Task Manager Web App](https://github.com/manju33333/task-manager) | A simple Django-based CRUD application for managing tasks |
+| 🔋 [Smart Energy Meter Dashboard](https://github.com/manju33333/energy-dashboard) | Simulates energy usage with login system & real-time graphs (Django + Chart.js) |
+| ✅ [Task Manager Web App](https://github.com/manju33333/task-manager) | CRUD app to track tasks with Bootstrap UI and Django backend |
+| 🌐 [Responsive Portfolio Website](https://github.com/manju33333/portfolio) | Personal portfolio site with animations, contact form, and mobile responsiveness |
+| 📝 [Quiz Application](https://github.com/manju33333/quiz-app) | Online quiz system with timer, score, and Django templates |
+| 🧠 [32x8 RAM Design](https://github.com/manju33333/32x8-RAM) | Designed and simulated a memory block using Verilog |
+| 💡 [FSM Design](https://github.com/manju33333/FSM-Design) | Built sequence detectors using state transitions in Verilog |
+| 🔗 [Digital Logic Circuits](https://github.com/manju33333/Digital-Logic-Verilog) | Implemented gates, adders, multiplexers in modular Verilog |
+
+---
+
+### 📜 Certifications
+
+- Python Full Stack – Think Champ Pvt. Ltd.  
+- VLSI System on Chip Design – Maven Silicon  
+- Full Stack Web Development – Udemy  
+- SQL Bootcamp – Let’s Upgrade  
+- Nanoelectronics Workshop – Nanoacademic Technologies  
+- VLSI Masterclass – Pantech e-Learning  
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=manju33333&theme=dark" alt="Streak"/>
+  <img src="https://streak-stats.demolab.com?user=manju33333&theme=dark" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api?username=manju33333&show_icons=true&theme=tokyonight" alt="Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manju33333&layout=compact&theme=radical" alt="Languages"/>
 </p>
 
 ---
 
-### 🤝 Let’s Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/manju-bhargavi-morla-64b309293/)
+### 📫 Contact Me
+
 - 📧 Email: **pandujyo5@gmail.com**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/manju-bhargavi-morla-64b309293/)
 - 🌐 Portfolio: *Coming Soon...*
+- 🗣 Languages: **English** (Fluent), **Telugu** (Native), **Hindi** (Conversational)
 
 ---
 
-> _“I believe in learning by doing — every bug I fix is a step closer to mastery.”_ 🚀
+> _“Great things come from consistency and courage. I'm here to build, learn, and grow.”_ 💪
+
