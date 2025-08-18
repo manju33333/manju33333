@@ -24,7 +24,7 @@
 |------------------|--------------|
 | **Languages**     | Python, C, Verilog |
 | **Web Technologies** | Django, HTML, CSS, Bootstrap, JavaScript |
-| **Database**      | MySQL, SQLite |
+| **Database**      | SQL  |
 | **Tools/Platforms** | Git, VS Code, Tinkercad, Xilinx |
 | **Soft Skills**   | Problem Solving, Teamwork, Adaptability, Communication |
 
