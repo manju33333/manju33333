@@ -36,7 +36,6 @@
 |--------|-------------|
 | 🔋 [Smart Energy Meter Dashboard](https://github.com/manju33333/energy-dashboard) | Simulates energy usage with login system & real-time graphs (Django + Chart.js) |
 | ✅ [Task Manager Web App](https://github.com/manju33333/task-manager) | CRUD app to track tasks with Bootstrap UI and Django backend |
-| 🌐 [Responsive Portfolio Website](https://github.com/manju33333/portfolio) | Personal portfolio site with animations, contact form, and mobile responsiveness |
 | 📝 [Quiz Application](https://github.com/manju33333/quiz-app) | Online quiz system with timer, score, and Django templates |
 | 🧠 [32x8 RAM Design](https://github.com/manju33333/32x8-RAM) | Designed and simulated a memory block using Verilog |
 | 💡 [FSM Design](https://github.com/manju33333/FSM-Design) | Built sequence detectors using state transitions in Verilog |
